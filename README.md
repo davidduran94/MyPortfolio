@@ -1,4 +1,4 @@
-# ReactJS Amazon clone
+# ReactJS Porfolio 
 ## <a href="https://react-portfolio-8eba3.web.app/">LIVE DEMO</a>
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
