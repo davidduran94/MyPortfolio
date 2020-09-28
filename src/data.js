@@ -39,7 +39,7 @@ const data =
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [
         {
-            "school": "National Politecnic Intitute",
+            "school": "National Politecnic Institute",
             "degree": "Computer Systems Engineer",
             "graduated": "August 2016",
             "description": ""
@@ -47,16 +47,34 @@ const data =
         ],
         "work": [
         {
-            "company": "Santander Bank",
+            "company": "BBVA Bank",
             "title": "Frontend Specialist",
-            "years": "November 2018 - Present",
+            "years": "January 2020 - Present",
+            "description": "Building Bank App platform to thousands of users in Mexico."
+        },
+        {
+            "company": "Santander Bank",
+            "title": "Full Stack Developer",
+            "years": "November 2018 - December 2019",
             "description": "Building ReactJS in Rewards platform to thousands of users."
         },
         {
-            "company": "Ulama Labs",
-            "title": "Frontend Specialist",
-            "years": "April 2017 - Octuber 2018",
-            "description": "Developing Fronted projects using REACT."
+            "company": "Ulama Labs (Software Consulting)",
+            "title": "Full Stack Developer",
+            "years": "January 2016 - April 2018",
+            "description": "Developing Web apps using REACT JS."
+        },
+        {
+            "company": "Grupo Difusión Científica (ecommerce)",
+            "title": "Web Developer",
+            "years": "July 2015 - Dic 2015",
+            "description": "Developing web projects using Angualr and React JS."
+        },
+        {
+            "company": "Kichink (ecommerce)",
+            "title": "Web Developer",
+            "years": "November 2014 - June 2015",
+            "description": "Developing Fronted projects."
         }
         ],
         "skills": [
@@ -104,14 +122,14 @@ const data =
     },
     "testimonials": {
         "testimonials": [
-        {
+        /*{
             "text": "",
             "user": ""
         },
         {
             "text": "",
             "user": ""
-        }
+        }*/
         ]
     }
 }
