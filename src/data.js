@@ -2,13 +2,13 @@ const data =
 {
     "main": {
         "name": "David Duran",
-        "occupation": "ReactJS Developer ",
-        "description": "Full Stack React Developer by Day, Founder && Freelancer by Night",
+        "occupation": "FullStack Javascript Developer",
+        "description": "",
         "image": "IG_David.jpeg",
-        "bio": "My name is David, I'm a Full Stack ReactJS Developer. Currently I'm working at Santander Bank in Mexico City",
+        "bio": "My name is David, I'm a FullStack Javascript Developer.",
         "contactmessage": "Get in touch with me to receive further details",
         "email": "davidduran@outlook.com",
-        "phone": "+52 554215 9282",
+        "phone": "+52 5550524729",
         "address": {
         "street": "123 Fake Street",
         "city": "Mexico City",
@@ -47,9 +47,15 @@ const data =
         ],
         "work": [
         {
+            "company": "Scotiabank",
+            "title": "Frontend Developer",
+            "years": "May 2021- Current job",
+            "description": ""
+        },
+        {
             "company": "BBVA Bank",
             "title": "Frontend Specialist",
-            "years": "January 2020 - Present",
+            "years": "January 2020 - May 2021",
             "description": "Building Bank App platform to thousands of users in Mexico."
         },
         {
@@ -117,6 +123,12 @@ const data =
             "category": "Bitso Crypto Exchange Clone built with ReactJS",
             "image": "bitso-clone.jpeg",
             "url": "https://github.com/davidduran94/front-end-challenge/tree/master/bitsotrader"
+        },
+        {
+            "title": "Tesla Clone",
+            "category": "Tesla Web Page Clone built with ReactJS",
+            "image": "tesla-clone.png",
+            "url": "https://github.com/davidduran94/TeslaClone"
         }
         ]
     },
